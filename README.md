@@ -15,4 +15,4 @@ On this repo you will find many things, including
 You decide which is which. 
 
 At the moment my favorite project is Roads, a bible memory web app. https://roadsbible.vercel.app
-This is bound to sometime change however. Visit my [website](https://Jadonus.github.io/Homepage) if you want to read more, but for now bye :v:!
+This is bound to sometime change however. Visit my [website](https://Jadonus.github.io/Homepage) if you want to read more, but for now bye! :v:
